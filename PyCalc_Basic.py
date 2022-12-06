@@ -6,11 +6,12 @@
 from tkinter import *
 from tkinter.colorchooser import askcolor
 import math
+import os
+import pathlib
 
 root = Tk()
 
-root.wm_iconbitmap("Calc3.ico")
-
+root.wm_iconbitmap(os.path.join(pathlib.Path(__file__).parent.absolute(), "Calc3.ico"))
 class PyCalc:
 
  def BgCol(self):
