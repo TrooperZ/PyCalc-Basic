@@ -13,7 +13,8 @@ root = Tk()
 try:
   root.wm_iconbitmap(os.path.join(pathlib.Path(__file__).parent.absolute(), "Calc3.ico"))
 except:
-  print("No icon found, continuing...")
+  pass
+
 class PyCalc:
 
  def BgCol(self):
