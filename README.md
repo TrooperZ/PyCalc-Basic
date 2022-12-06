@@ -10,6 +10,6 @@ Simple Python Calculator. Designed to run on Windows, but can also run on Linux 
 - Can do percents
 - Can do parentheses. 
 
-[png](https://github.com/TrooperZ/PyCalc-Basic/blob/master/pycalc.png)
+![png](https://github.com/TrooperZ/PyCalc-Basic/blob/master/pycalc.png)
 
 Also, you can change the background easily!
